@@ -2,6 +2,7 @@ package Arboles;
 
 import java.util.PriorityQueue;
 
+
 public class SistemaEmergencias {
 
     public static void main(String[] args) {

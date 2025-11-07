@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "lib/jgrapht-core-1.5.2.jar",
+        "/Users/danielpacheco/Downloads/DevProjects/UNIVERSIDAD/SEMESTRE IV/Estructura de datos/Unidad cuatro/ACT EDD U4/lib/jgrapht-core-1.5.2.jar"
+    ]
+}
